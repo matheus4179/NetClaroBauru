@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.pakgroud-red{
+	background-color: #da0000;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	font-weight: 500;
+}
+
+.margin {
+	padding: 5px;
+}
+
