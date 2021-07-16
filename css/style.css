@@ -14,4 +14,9 @@
 
 .degrade{
 	background-image: linear-gradient(to bottom, #b10000, #fef194 120%);
+	box-shadow: 0 0 1em black;
+}
+
+.margin2{
+	padding: 100px;
 }
