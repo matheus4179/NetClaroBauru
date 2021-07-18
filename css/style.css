@@ -14,6 +14,10 @@
 
 .degrade{
 	background-image: linear-gradient(to bottom, #b10000, #fef194 120%);
+	
+}
+
+.sombra{
 	box-shadow: 0 0 1em black;
 }
 
