@@ -64,3 +64,15 @@
 	
 }
 
+.margin3{
+	padding: auto;
+	margin: auto;
+	max-width: 800px;
+
+}
+
+.margin3 p{
+	text-align: justify;
+	
+}
+
