@@ -54,5 +54,11 @@
 	text-align: center;
 	word-break: all;
 	font-size: 20px;
-
+	color: white;
 }
+
+.degrade2{
+	background-image: linear-gradient(to bottom, gray, white 120%);
+	
+}
+
