@@ -44,6 +44,7 @@
 .m_informacao{
 	text-align: center;
 	color: white;
+	font-size: 10px;
 }
 
 .list-group2 {
@@ -55,6 +56,7 @@
 	word-break: all;
 	font-size: 20px;
 	color: white;
+	text-shadow: 0.1em 0.1em #333;
 }
 
 .degrade2{
