@@ -68,11 +68,22 @@
 	padding: auto;
 	margin: auto;
 	max-width: 800px;
-
 }
 
 .margin3 p{
-	text-align: justify;
-	
+	text-align: justify;	
 }
+
+.margin3 a{
+		font-weight: bold;
+}
+
+.margin3 h4{
+	text-align: left;
+}
+
+.oculto{
+	display: none;
+}
+
 
