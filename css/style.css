@@ -74,8 +74,13 @@
 	text-align: justify;	
 }
 
-.margin3 a{
+.margin3 a, a:link {
 		font-weight: bold;
+		text-decoration: none;
+		color: black;
+}
+.margin3 a:hover {
+	text-decoration: underline;
 }
 
 .margin3 h4{
