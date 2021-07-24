@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .pakgroud-red{
-	background-color: #da0000;
+	background-color: #b10000;
 	text-align: center;
 	color: white;
 	font-size: 22px;
@@ -74,13 +74,14 @@
 	text-align: justify;	
 }
 
-.margin3 a, span:link {
+.margin3 a, link {
 		font-weight: bold;
 		text-decoration: none;
 		color: black;
 }
-.margin3 span:hover {
+.margin3 a:hover {
 	text-decoration: underline;
+	
 }
 
 .margin3 h4{
