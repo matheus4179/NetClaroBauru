@@ -74,12 +74,12 @@
 	text-align: justify;	
 }
 
-.margin3 a, a:link {
+.margin3 a, span:link {
 		font-weight: bold;
 		text-decoration: none;
 		color: black;
 }
-.margin3 a:hover {
+.margin3 span:hover {
 	text-decoration: underline;
 }
 
